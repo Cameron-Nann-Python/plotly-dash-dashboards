@@ -3,7 +3,7 @@
 ![Audio Dashboard Desktop View](https://github.com/Cameron-Nann-Python/plotly-dash-dashboards/blob/main/basic_audio_dashboard/screenshots/audio_dashboard_desktop.png)
 
 ## Overview
-This dashboard explores audio wave data with librosa. A sound clip was extracted from the Librosa collection and visualized with three interactive plots:
+This dashboard explores audio wave data with librosa. A sound clip was extracted from the librosa collection and visualized with three interactive plots:
 - Waveform
 - Fast Fourier Transform (FFT)
 - Mel Spectrogram
