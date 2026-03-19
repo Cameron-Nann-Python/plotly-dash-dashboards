@@ -23,12 +23,15 @@ The range of frequency in decibels of the elapsed time period
 The follwing image shows the dashboard view on a tablet:
 ![Audio Dashboard Tablet View](https://github.com/Cameron-Nann-Python/plotly-dash-dashboards/blob/main/basic_audio_dashboard/screenshots/audio_dashboard_tablet.png)
 
+## HuggingFace Link
+The dashboard can be view on HuggingFaces Spaces with the following link:
+https://huggingface.co/spaces/Cameron-Nann/Audio_Dashboard 
+
 ## Recommendations
 To enhance the dashboard, audio playback could be installed so that the audio clip can be heard when manipulation the time slider. To have a functional dashboard on phones, the slider ticks would have to be modified and the plots would need tighter constraints. 
 
 ## Files Included
-- `audio_dashboard.py`: Python file containing full dashboard logic
+- `app.py`: Python file containing full dashboard logic
 - `requirements.txt`: List of Python dependencies needed for dashboard
 - `audio_dashboard_desktop.png`: Screenshot of desktop view
 - `audio_dashboard_desktop.png`: Screenshow of tablet view
-- `Procfile`: Establish connection to Render
